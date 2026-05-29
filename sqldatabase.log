@@ -1,0 +1,14 @@
+1780073070097:help-db
+1780073090200:create table testtable(id LONG, name STRING)
+1780073105069:CREATE table testtable(id LONG, name STRING)
+1780073120041:sql CREATE table testtable(id LONG, name STRING)
+1780073131202:CREATE table testtable(id INT, name STRING)
+1780073146510:sql CREATE table testtable(id INT, name STRING)
+1780073154371:sql CREATE table testtable(id integer, name STRING)
+1780073188356:sql select * from testtable
+1780073210916:insert into testtable(id,name) values(1,name)
+1780073222468:sql insert into testtable(id,name) values(1,name)
+1780073234971:sql select * from testtable
+1780073372047:sql update settable set id=2 where name=name
+1780073391382:sql update testtable set id=2 where name=name
+1780073417302:sql select id from testtable
